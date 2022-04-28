@@ -1,4 +1,16 @@
-# Index
+# index
+
+- [index](#index)
+  - [Misc](#misc)
+  - [.NET](#net)
+  - [Commandline](#commandline)
+    - [A to Z List of Windows CMD Commands](#a-to-z-list-of-windows-cmd-commands)
+  - [Windows](#windows)
+  - [Windows 11](#windows-11)
+  - [Powershell](#powershell)
+    - [Command line to export folder permissions to a text file](#command-line-to-export-folder-permissions-to-a-text-file)
+
+## Misc
 
 ## .NET
 
