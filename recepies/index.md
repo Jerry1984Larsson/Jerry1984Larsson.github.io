@@ -31,13 +31,11 @@
 
 4 dl vetemjöl
 
-
-
-175 
+175
 
 15-17 min
 
-**Glasyr**
+### Glasyr
 
 200 färskost
 
@@ -45,4 +43,14 @@
 
 4 dl florsocker
 
----
+----
+
+## Grundrecept Bröd
+
+350 g vatten
+5 g jäst
+5 g salt
+350-450 g vetemjöl
+
+250 grader
+10-12 min
