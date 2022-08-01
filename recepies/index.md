@@ -53,15 +53,15 @@
 
 ## Rabarberkaka
 
-150 g rumsvarmt smör
-3 dl strösocker
-2 ägg
-3 dl vetemjöl
-1 msk vaniljsocker
-1 tsk bakpulver
-2-3 rabarberstjälkar (ca 250 g)
-2 msk strösocker
-1 tsk maizena majsstärkelse
+- 150 g rumsvarmt smör
+- 3 dl strösocker
+- 2 ägg
+- 3 dl vetemjöl
+- 1 msk vaniljsocker
+- 1 tsk bakpulver
+- 2-3 rabarberstjälkar (ca 250 g)
+- 2 msk strösocker
+- 1 tsk maizena majsstärkelse
 
 Florsocker till garnering
 
