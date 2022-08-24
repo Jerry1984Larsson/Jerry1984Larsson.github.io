@@ -76,3 +76,53 @@ Florsocker till garnering
 7. Pudra med florsocker och servera gärna med lite vaniljsås!
 
 
+
+## Gotlandslimpa
+
+[Gotlandslimpa | Kitchen Wihlgaard](https://kitchenwihlgaard.se/gotlandslimpa/)
+
+Jag har letat i gotlandssläkten receptböcker utan att hitta något recept på gotlandslimpa. Det här är därför ett recept efter min fina granne Berit.
+
+### Du behöver
+
+Dag 1:
+
+- 6 dl finmalet rågmjöl
+- 7 dl vatten
+- 2 tsk salt
+- 1/2 msk ättiksprit 12%
+
+Dag 2:
+
+- 1 pkt jäst
+- 1 dl vatten
+- 1 tsk fänkål
+- 1 msk pomerans
+- 1/2 dl sirap
+- 1 l vetemjöl special
+
+### Gör så här
+
+Dag 1:
+
+1. Mät upp rågmjölet och häll det i degassistentens bunke.
+2. Koka upp vattnet, tillsätt salt och ättiksprit.
+3. Slå degspadet över mjölet och kör assistenten till dess att det blandats väl.
+4. Lägg över en bakduk och låt stå över natten.
+
+Dag 2:
+
+1. Smula jästen i en liten skål och lös den med ljummet vatten.
+2. Mortla fänkålen lätt.
+3. Tillsätt jästen, sirap, fänkål och pomerans till degblandningen från gårdagen.
+4. Låt assistenten arbeta in det innan du tillsätter vetemjölet.
+5. Tillsätt vetemjölet lite i taget.
+6. Låt assistenten arbeta degen i 10 minuter.
+7. Degen blir, kompakt och kletig av det skållade mjölet, men den ska vara smidig och släppa från bunken när den är klar.
+8. Täck med bakduk och låt jäsa 60 min.
+9. Ta upp degen på lätt mjölat bakbord och knåda den genom att vika in kanterna och forma till ett runt bröd.
+10. Lägg på bakplåtsförklädd plåt och låt jäsa under fuktig bakduk i 40 minuter.
+11. Värm ugnen till 200 grader och grädda brödet i 50 minuter.
+12. När brödet fått fin färg sänk till 175 grader.
+13. Låt svalna på galler under bakduk.
+14. Servera bröder med smör, ost och grönsaker till en nybryggd kopp kaffe.
