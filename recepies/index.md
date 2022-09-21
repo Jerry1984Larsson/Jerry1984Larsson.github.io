@@ -126,3 +126,112 @@ Dag 2:
 12. När brödet fått fin färg sänk till 175 grader.
 13. Låt svalna på galler under bakduk.
 14. Servera bröder med smör, ost och grönsaker till en nybryggd kopp kaffe.
+
+
+## Äppeltårta med vaniljkräm & kolafrosting
+
+  
+
+71 röster
+
+21 oktober, 2021
+
+![img](https://i0.wp.com/mykitchenstories.se/app/uploads/sites/2/2021/10/2021-08-20_10139.jpg?resize=648%2C865&ssl=1)En drömmig äppeltårta med saftiga bottnar, äppelmos, vaniljkräm och en fluffig marängsmörkräm med smak av kola.
+
+##### Foto: Ulrika Pousette
+
+Låt mig presentera livets äppeltårta: saftiga och kryddiga bottnar med rivna äpplen för extra saftighet, äppelmos, len vaniljkräm, fluffig marängsmörkräm med dulce de leche och kolasås. En riktigt höstig tårta som bara smälter i munnen.
+
+![img](https://i0.wp.com/mykitchenstories.se/app/uploads/sites/2/2021/10/2021-08-20_10152.jpg?resize=648%2C865&ssl=1)
+
+Receptet bakas i 3 stycken springformar med diameter på ca 23 cm och ger 8-10 generösa bitar äppeltårta.
+
+
+
+**Tårtbotten:**
+
+6 små äpplen à ca 120 g
+
+1 dl brunt farinsocker
+
+1 msk malen kanel
+
+1 tsk malen ingefära
+
+1 tsk malen kardemumma
+
+4 ägg
+
+4 dl strösocker
+
+5 dl vetemjöl
+
+1 msk vaniljsocker
+
+2 tsk bikarbonat
+
+1 tsk bakpulver
+
+0,5 tsk salt
+
+2,5 dl neutral olja (mat-, raps- eller solrosolja)
+
+
+
+**Fyllning 1:**
+
+2 dl äppelmos
+
+
+
+**Vaniljkräm:**
+
+2,5 dl mjölk
+
+1 krm äkta vaniljpulver eller 1 vaniljstång
+
+0,75 dl strösocker
+
+3 st äggulor
+
+0,3 dl majsstärkelse.
+
+50 g mjukt smör
+
+
+
+**Kolafrosting:**
+
+3 st äggvitor från stora ägg
+
+1,5 dl strösocker
+
+1 krm salt
+
+250 g mjukt, rumstempererat smör
+
+1 burk dulce de leche à 397 g
+
+
+
+kolasås och röd oxalis att dekorera med
+
+
+
+**Gör såhär:**
+
+1. **Tårtbottnar:** Sätt ugnen på 150 grader (över- och undervärme) och fodra en springform (eller tre) med diameter på 23 cm med bakplåtspapper.
+2. Skala och riv äpplena fint och blanda ihop med farinsocker, kanel, ingefära och kardemumma i en skål. Ställ åt sidan.
+3. I en annan bunke vispar du ihop ägg och strösocker riktigt vitt och pösigt med elvisp. Tillsätt blandningen med de rivna äpplena och vänd försiktigt ihop till en jämn smet.
+4. Sikta ner vetemjöl, vaniljsocker, bikarbonat, bakpulver och salt. Vänd försiktigt ihop till en jämn smet med slickepott.
+5. Ha till sist i oljan och vänd försiktigt ihop till en jämn smet.
+6. Häll upp smeten i formen och grädda i nedre delen av ugnen i 45 min-1 timme eller tills tårtbotten är helt genomgräddad. Vill du baka smeten i tre formar för att slippa dela tårtbotten (och få en jämnare tårta) sen så är det bara att fördela smeten, 1 dl i taget, i varje form och grädda en botten i taget i ca 30 min. De andra formarna kan stå i rumstemperatur medan du gräddar en form i ugnen.
+7. Låt din tårtbotten svalna helt och hållet innan du delar den i tre delar eller monterar ihop den.
+8. **Vaniljkräm:** Lägg vaniljpulver och mjölk i en kastrull och låt koka upp. Vill du istället använda vaniljstång, delar du vaniljstången på längden och skrapar ur fröna. Lägg både skal och frön i en kastrull tillsammans med mjölken och låt koka upp. Ta bort från plattan.
+9. Vispa strösocker, äggulor och majsstärkelse för hand, gärna med en spiralvisp. Häll sedan detta över mjölken samtidigt som du rör om.
+10. Fortsätt sedan värma försiktigt på låg till medel värme under fortsatt omrörning. Ta bort kastrullen från plattan så snart krämen börjat tjockna.
+11. Tillsätt smöret och låt smälta i krämen medans du rör om. Häll sedan över krämen i en skål. Täck med plast och låt svalna och tjockna i rumstemperatur.
+12. **Kolafrosting:** Lägg äggvitor, socker och salt i en skål över ett vattenbad och värm på tills alla sockerkristaller har lösts upp. Rör om då och då.
+13. Ta bort skålen från värmen och fortsätt vispa äggvitorna med elvisp tills dess att du fått en fast och blank maräng och undersidan av bunken har svalnat helt och hållet.
+14. Vispa sedan ner lite i taget av smöret och därefter dulce de leche. Vispa hela tiden under tiden som du tillsätter fler ingredienser. Och fortsätt gärna vispa några minuter efter det för en riktigt krämig och fluffig smörkräm.
+15. Montera ihop tårtan genom att spritsa en tunn kant av av kolasmörkräm på första botten. Fyll insidan av frostingkanten med äppelmos. Lägg på nästa botten. Spritsa en ny kant av kolasmörkräm, fyll insidan med vaniljkräm. Använd resten av kolasmörkrämen till att täcka och spritsa tårtan. Dekorera med kolasås och röd oxalis och låt gärna tårtan stå i kylskåpet för att sätta sig i någon timme, helst över natten, innan du serverar den. Ju längre tid tårtan få stå i kylskåpet och gotta sig, desto bättre.
