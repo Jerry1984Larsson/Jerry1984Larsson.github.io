@@ -1,5 +1,17 @@
 # Recept
 
+- [Recept](#recept)
+  - [Sockerkaka](#sockerkaka)
+  - [Morotskaka](#morotskaka)
+    - [Glasyr](#glasyr)
+  - [Grundrecept Bröd](#grundrecept-bröd)
+  - [Rabarberkaka](#rabarberkaka)
+  - [Gotlandslimpa](#gotlandslimpa)
+    - [Du behöver](#du-behöver)
+    - [Gör så här](#gör-så-här)
+  - [Äppeltårta med vaniljkräm & kolafrosting](#äppeltårta-med-vaniljkräm--kolafrosting)
+        - [Foto: Ulrika Pousette](#foto-ulrika-pousette)
+
 ## Sockerkaka
 
 - 75 g smör
@@ -14,7 +26,7 @@
 
 40 min
 
-----
+---
 
 ## Morotskaka
 
@@ -36,7 +48,7 @@
 - 75 g smör
 - 4 dl florsocker
 
-----
+---
 
 ## Grundrecept Bröd
 
@@ -49,7 +61,7 @@
 
 10-12 min
 
-----
+---
 
 ## Rabarberkaka
 
@@ -74,8 +86,6 @@ Florsocker till garnering
 5. Fördela rabarbern över hela kakan och baka mitt i ugnen 40-50 minuter. Känn med en sticka att den känns torr när du tar ur den.
 6. Låt kakan vila 10 minuter i formen innan su stjälper upp den.
 7. Pudra med florsocker och servera gärna med lite vaniljsås!
-
-
 
 ## Gotlandslimpa
 
@@ -127,10 +137,7 @@ Dag 2:
 13. Låt svalna på galler under bakduk.
 14. Servera bröder med smör, ost och grönsaker till en nybryggd kopp kaffe.
 
-
 ## Äppeltårta med vaniljkräm & kolafrosting
-
-  
 
 71 röster
 
@@ -145,8 +152,6 @@ Låt mig presentera livets äppeltårta: saftiga och kryddiga bottnar med rivna 
 ![img](https://i0.wp.com/mykitchenstories.se/app/uploads/sites/2/2021/10/2021-08-20_10152.jpg?resize=648%2C865&ssl=1)
 
 Receptet bakas i 3 stycken springformar med diameter på ca 23 cm och ger 8-10 generösa bitar äppeltårta.
-
-
 
 **Tårtbotten:**
 
@@ -176,13 +181,9 @@ Receptet bakas i 3 stycken springformar med diameter på ca 23 cm och ger 8-10 g
 
 2,5 dl neutral olja (mat-, raps- eller solrosolja)
 
-
-
 **Fyllning 1:**
 
 2 dl äppelmos
-
-
 
 **Vaniljkräm:**
 
@@ -198,8 +199,6 @@ Receptet bakas i 3 stycken springformar med diameter på ca 23 cm och ger 8-10 g
 
 50 g mjukt smör
 
-
-
 **Kolafrosting:**
 
 3 st äggvitor från stora ägg
@@ -212,11 +211,7 @@ Receptet bakas i 3 stycken springformar med diameter på ca 23 cm och ger 8-10 g
 
 1 burk dulce de leche à 397 g
 
-
-
 kolasås och röd oxalis att dekorera med
-
-
 
 **Gör såhär:**
 
