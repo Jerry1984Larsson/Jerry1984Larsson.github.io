@@ -11,6 +11,7 @@
     - [Gör så här](#gör-så-här)
   - [Äppeltårta med vaniljkräm & kolafrosting](#äppeltårta-med-vaniljkräm--kolafrosting)
         - [Foto: Ulrika Pousette](#foto-ulrika-pousette)
+  - [Markus Pizzarecept](#Markus-Pizzarecept)
 
 ## Sockerkaka
 
@@ -230,3 +231,42 @@ kolasås och röd oxalis att dekorera med
 13. Ta bort skålen från värmen och fortsätt vispa äggvitorna med elvisp tills dess att du fått en fast och blank maräng och undersidan av bunken har svalnat helt och hållet.
 14. Vispa sedan ner lite i taget av smöret och därefter dulce de leche. Vispa hela tiden under tiden som du tillsätter fler ingredienser. Och fortsätt gärna vispa några minuter efter det för en riktigt krämig och fluffig smörkräm.
 15. Montera ihop tårtan genom att spritsa en tunn kant av av kolasmörkräm på första botten. Fyll insidan av frostingkanten med äppelmos. Lägg på nästa botten. Spritsa en ny kant av kolasmörkräm, fyll insidan med vaniljkräm. Använd resten av kolasmörkrämen till att täcka och spritsa tårtan. Dekorera med kolasås och röd oxalis och låt gärna tårtan stå i kylskåpet för att sätta sig i någon timme, helst över natten, innan du serverar den. Ju längre tid tårtan få stå i kylskåpet och gotta sig, desto bättre.
+
+## Markus Pizzarecept
+
+Recipe:
+
+For the biga:
+
+- 1000g flour
+- 450g water
+- 3g of fresh yeast
+
+Dissolve the yeast in the water
+
+Put the water in the flour and mix to a lumpy sandy mess.
+
+Cover and make some small air holes with a fork.
+
+Let it ferment for 18 hours at 16 degrees celsius.
+
+Refresh:
+All of the biga
+- 350g water
+- 26g salt
+- 10g of malt or sugar
+
+After 18h, put all of the biga and roughly 250g of water (save 100g of water) in your standmixer.
+Put it on low speed.
+
+Throw in the salt and malt and let the mixer go on low untill the dough is geting smoother and looses from the bowl.
+
+Now turn up to medium speed and drizzle in some of the remaining water and let the dough absorb it, little by little. When it has absorbed it, put more water in untill it has absorbed all of the water.
+
+Run the mixer untill the dough is very smooth and strong.
+
+Take the dough out and form it to a large ball. If it is very very sticky you can put it in the fridge for 30 minutes.
+
+Form doughballs (260-280g for a 34cm pizza) and let the doughballs ferment at room temp for 2-3 hours. 
+
+If the dough feels very sticky you can cool the dough down in the fridge the last hour.
