@@ -2,15 +2,11 @@
 
 - [Recept](#recept)
   - [Sockerkaka](#sockerkaka)
-  - [Morotskaka](#morotskaka)
-    - [Glasyr](#glasyr)
+  - [Morotskaka](#morotskaka)    
   - [Grundrecept Bröd](#grundrecept-bröd)
   - [Rabarberkaka](#rabarberkaka)
-  - [Gotlandslimpa](#gotlandslimpa)
-    - [Du behöver](#du-behöver)
-    - [Gör så här](#gör-så-här)
-  - [Äppeltårta med vaniljkräm & kolafrosting](#äppeltårta-med-vaniljkräm--kolafrosting)
-        - [Foto: Ulrika Pousette](#foto-ulrika-pousette)
+  - [Gotlandslimpa](#gotlandslimpa)    
+  - [Äppeltårta med vaniljkräm & kolafrosting](#äppeltårta-med-vaniljkräm--kolafrosting)        
   - [Markus Pizzarecept](#Markus-Pizzarecept)
 
 ## Sockerkaka
