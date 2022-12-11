@@ -2,12 +2,13 @@
 
 - [Recept](#recept)
   - [Sockerkaka](#sockerkaka)
-  - [Morotskaka](#morotskaka)    
+  - [Morotskaka](#morotskaka)
   - [Grundrecept Bröd](#grundrecept-bröd)
   - [Rabarberkaka](#rabarberkaka)
-  - [Gotlandslimpa](#gotlandslimpa)    
-  - [Äppeltårta med vaniljkräm & kolafrosting](#äppeltårta-med-vaniljkräm--kolafrosting)        
-  - [Markus Pizzarecept](#Markus-Pizzarecept)
+  - [Gotlandslimpa](#gotlandslimpa)
+  - [Äppeltårta med vaniljkräm \& kolafrosting](#äppeltårta-med-vaniljkräm--kolafrosting)
+  - [Markus Pizzarecept](#markus-pizzarecept)
+  - [Tortilliabröd](#tortilliabröd)
 
 ## Sockerkaka
 
@@ -74,7 +75,7 @@
 
 Florsocker till garnering
 
-**Gör så här**
+### Gör så här
 
 1. Sätt ugnen på 175 grader. Smörj och bröda en form på ca 22 cm i diameter.
 2. Vispa smör och socker fluffigt, tillsätt ett ägg i taget.
@@ -86,12 +87,11 @@ Florsocker till garnering
 
 ## Gotlandslimpa
 
-[Gotlandslimpa | Kitchen Wihlgaard](https://kitchenwihlgaard.se/gotlandslimpa/)
+[Gotlandslimpa | Kitchen Wihlgaard][gotland]
 
 Jag har letat i gotlandssläkten receptböcker utan att hitta något recept på gotlandslimpa. Det här är därför ett recept efter min fina granne Berit.
 
-### Du behöver
-
+**Du behöver**
 Dag 1:
 
 - 6 dl finmalet rågmjöl
@@ -108,8 +108,7 @@ Dag 2:
 - 1/2 dl sirap
 - 1 l vetemjöl special
 
-### Gör så här
-
+**Gör så här**
 Dag 1:
 
 1. Mät upp rågmjölet och häll det i degassistentens bunke.
@@ -135,20 +134,6 @@ Dag 2:
 14. Servera bröder med smör, ost och grönsaker till en nybryggd kopp kaffe.
 
 ## Äppeltårta med vaniljkräm & kolafrosting
-
-71 röster
-
-21 oktober, 2021
-
-![img](https://i0.wp.com/mykitchenstories.se/app/uploads/sites/2/2021/10/2021-08-20_10139.jpg?resize=648%2C865&ssl=1)En drömmig äppeltårta med saftiga bottnar, äppelmos, vaniljkräm och en fluffig marängsmörkräm med smak av kola.
-
-##### Foto: Ulrika Pousette
-
-Låt mig presentera livets äppeltårta: saftiga och kryddiga bottnar med rivna äpplen för extra saftighet, äppelmos, len vaniljkräm, fluffig marängsmörkräm med dulce de leche och kolasås. En riktigt höstig tårta som bara smälter i munnen.
-
-![img](https://i0.wp.com/mykitchenstories.se/app/uploads/sites/2/2021/10/2021-08-20_10152.jpg?resize=648%2C865&ssl=1)
-
-Receptet bakas i 3 stycken springformar med diameter på ca 23 cm och ger 8-10 generösa bitar äppeltårta.
 
 **Tårtbotten:**
 
@@ -248,6 +233,7 @@ Let it ferment for 18 hours at 16 degrees celsius.
 
 Refresh:
 All of the biga
+
 - 350g water
 - 26g salt
 - 10g of malt or sugar
@@ -263,6 +249,24 @@ Run the mixer untill the dough is very smooth and strong.
 
 Take the dough out and form it to a large ball. If it is very very sticky you can put it in the fridge for 30 minutes.
 
-Form doughballs (260-280g for a 34cm pizza) and let the doughballs ferment at room temp for 2-3 hours. 
+Form doughballs (260-280g for a 34cm pizza) and let the doughballs ferment at room temp for 2-3 hours.
 
 If the dough feels very sticky you can cool the dough down in the fridge the last hour.
+
+## Tortilliabröd
+
+- 1 dl vetemjöl
+- 1 dl majsmjöl
+- 1 krm salt
+- 1-2 msk olivolja
+- 1 dl vatten, kokande
+
+Häll vetemjöl, majsmjöl och salt i en bunke. Tillsätt olivolja och blanda till ett smul
+
+Tillsätt det kokande vattnet
+
+Dela degen i sex delar
+
+Stek en tortilla i taget på hög värme i torr stekpanna, max en minut per sida.
+
+[gotland]: https://kitchenwihlgaard.se/gotlandslimpa/
