@@ -3,12 +3,15 @@
 - [Recept](#recept)
   - [Sockerkaka](#sockerkaka)
   - [Morotskaka](#morotskaka)
+    - [Glasyr](#glasyr)
   - [Grundrecept Bröd](#grundrecept-bröd)
   - [Rabarberkaka](#rabarberkaka)
+    - [Gör så här](#gör-så-här)
   - [Gotlandslimpa](#gotlandslimpa)
   - [Äppeltårta med vaniljkräm \& kolafrosting](#äppeltårta-med-vaniljkräm--kolafrosting)
   - [Markus Pizzarecept](#markus-pizzarecept)
   - [Tortilliabröd](#tortilliabröd)
+  - [Rabarbersmulpaj](#rabarbersmulpaj)
 
 ## Sockerkaka
 
@@ -270,3 +273,23 @@ Dela degen i sex delar
 Stek en tortilla i taget på hög värme i torr stekpanna, max en minut per sida.
 
 [gotland]: https://kitchenwihlgaard.se/gotlandslimpa/
+
+## Rabarbersmulpaj
+
+En riktigt klassisk smulpaj som jag l?ngtar efter sa fort varsolen borja varma. Rabarber vaxer n?stan som ogras hos manga tradgards?gare, men ett trevligt alternativ for alla oss som knappt har en balkonglada ar att fraga snallt vid narmaste kolonitradgard om det ar nagon som vill salja ett par stjalkar. Annars gar det aven bra att kopa i de flesta butiker fran borjan av maj.
+Smuldeg
+150 g smör
+2 dl vetemjöl
+3 dl havregryn
+1 1/2 tsk bakpulver
+1 krm salt
+1 1/2 dl strosocker
+
+**Fyllning**
+400 g rabarber
+1 msk potatismj?l
+1 msk vaniljsocker
+
+Smält smöret i en bunke i mikron eller kastrull pa spisen.
+Blandade till torra en ingredienserna smulig massa.till smuldegen
+175 grader i 40 min
