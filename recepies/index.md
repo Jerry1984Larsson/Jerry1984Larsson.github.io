@@ -292,3 +292,11 @@ Stek en tortilla i taget på hög värme i torr stekpanna, max en minut per sida
 Smält smöret i en bunke i mikron eller kastrull pa spisen.
 Blandade till torra en ingredienserna smulig massa.till smuldegen
 175 grader i 40 min
+
+## Soba noodles
+
+- 500g mjöl
+- 5g sodium carbonate
+- 5g salt
+- 200g kallt vatten
+
